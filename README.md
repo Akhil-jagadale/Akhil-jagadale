@@ -32,11 +32,36 @@ Cloud & DevOps Engineer with hands-on internship experience across **AWS**, **Az
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+**AWS Services**
+
+![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-%23FF9900.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS%20CLI-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Azure Services**
+
+![Azure App Service](https://img.shields.io/badge/App%20Service-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Container Registry](https://img.shields.io/badge/ACR-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Container Apps](https://img.shields.io/badge/ACA-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
 **DevOps & Automation**
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Operating Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Languages & Scripting**
 
@@ -46,9 +71,9 @@ Cloud & DevOps Engineer with hands-on internship experience across **AWS**, **Az
 **Databases & Storage**
 
 ![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/RDS-%23527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
@@ -76,17 +101,6 @@ Contributed to an airline industry ETL pipeline with schema validation, error ha
 
 ---
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Akhil-jagadale&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Akhil-jagadale&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-jagadale&theme=dark&hide_border=true&include_all_commits=true&layout=compact)
-
-</div>
-
----
 
 <div align="center">
 
